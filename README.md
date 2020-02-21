@@ -1,7 +1,9 @@
 # ARC-dataset-interactive-explorer
+
+## Purpose
 Interactively visualize all tasks pairs in ARC training and evaluation dataset using open source streamlit library
 
-I have made an interactive version using stramlit for the amazing notebook 
+This script is just an interactive version of the amazing notebook
 [link](https://www.kaggle.com/boliu0/visualizing-all-task-pairs-with-gridlines)
 
 For more about Abstraction and Reasoning Challenge
