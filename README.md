@@ -6,7 +6,7 @@ Interactively visualize all tasks pairs in ARC training and evaluation dataset u
 This script is just an interactive version of the amazing notebook
 [link](https://www.kaggle.com/boliu0/visualizing-all-task-pairs-with-gridlines)
 
-For information more about Abstraction and Reasoning Challenge 
+For more information about Abstraction and Reasoning Challenge 
 [Kaggle ARC Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge)
 
 ## How to run
