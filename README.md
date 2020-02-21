@@ -17,6 +17,10 @@ pip install streamlit
 Execute the following command
 streamlit run app.py
 
+## Deployment
+Also i have delployed this application on heroku cloud 
+[My application](https://arc-dataset-interactive-explor.herokuapp.com/)
+
 ### References
 [streamlit homepage](https://www.streamlit.io/)
 
