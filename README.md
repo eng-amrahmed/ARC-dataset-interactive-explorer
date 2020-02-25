@@ -11,10 +11,10 @@ For more information about Abstraction and Reasoning Challenge
 
 ## How to run
 
-Install streamlit
+### Install streamlit
 pip install streamlit
 
-Execute the following command
+### Run the app
 streamlit run app.py
 
 ## Deployment
